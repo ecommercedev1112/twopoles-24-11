@@ -1,0 +1,28 @@
+{
+    "sections": {
+        "main": {
+            "type": "product-template"
+            
+        },
+        "product-custom-recommendation": {
+            "type": "product-custom-recommendation"
+            
+        },
+        "related-products": {
+            "type": "product-recommendations"
+        },
+        "recently-viewed-products": {
+            "type": "recently-viewed-products"
+        },
+        "product-footer": {
+            "type": "product-footer"
+        }
+    },
+    "order": [
+        "main",
+        "product-custom-recommendation",
+        "related-products",
+        "recently-viewed-products",
+        "product-footer"
+    ]
+}
